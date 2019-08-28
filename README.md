@@ -76,7 +76,7 @@ Pune, Maharashtra, India.<br />
 * [Longest Continuous Odd Subsequence](Dynamic%20Programming/P03_LongestContinuousOddSubsequence.py)
 
 # Donation
-*this is just to test
+*this is just to test*
 
 If you have found my softwares to be of any use to you, do consider helping me pay my internet bills. This would encourage me to create many such softwares :)
 
